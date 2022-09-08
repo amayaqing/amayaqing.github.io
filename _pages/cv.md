@@ -11,49 +11,46 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, City University of Hong Kong, 2017
+* M.S. in Computer Science, Columbia University, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Goldman Sachs - Software Engineering Summer Analyst
+  * FICC Eng Team
+  * Produced a full-stack order status monitor application to track orders in real-time with Java Spring Boot
+  * Developed a web portal with React and Swagger API to demonstrate order analysis and enabling order query
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Summer 2020: Everbright Xinglong Trust Co., Ltd. - Quantitative Analytics Intern
+  * Built data pipeline for a customized index in Python
+  * Assisted in multi-factor based model research
+  * Automated ledger management and data analysis of several accounts and books with VBA and SQL
+
+* Jun 2019 - Apr 2020: Hong Kong Exchanges & Clearing Ltd (HKEX) - Software Engineer Intern
+  * Corporate & Listing Team
+  * Designed VBA Macros to automate financial report generation
+  * Corporate listing system maintenance and testing
+  * Oracle database maintenance
+
+Research experience
+======
+* Jul 2019 - Apr 2021: City University of Hong Kong 
+  * Supervisor: Prof. Cong Wang
+  * Research field: Data, Machine Learning, Federated Learning, Blockchain
+  * Achievement: 
+    * Researched on data valuation algorithms in context of machine learning, collaborated to complete an academic survey journal
+    * Designed and implemented an incentive allocation scheme with data valuation algorithm in Federated Learning, and extended it to be a federated optimization algorithm
+
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Java, Python, C/C++, SQL, JavaScript, React, Git, Linux Shell, Verilog
+* Frameworks and Tools: Spring, Flask, TensorFlow, PyTorch, Hadoop, Spark, AWS, WEKA, Tableau
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
+Activities
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2021 Pearl River Delta Delta Region IT Project Competition
+* 2022 Columbia Data Science Hackathon
+* ICPC Columbia University Local Contest (CULC)
