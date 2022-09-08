@@ -16,17 +16,15 @@ Education
 
 Work experience
 ======
-* Summer 2022: Goldman Sachs - Software Engineering Summer Analyst
+* **Summer 2022: Goldman Sachs - Software Engineering Summer Analyst**
   * FICC Eng Team
-  * Produced a full-stack order status monitor application to track orders in real-time with Java Spring Boot
-  * Developed a web portal with React and Swagger API to demonstrate order analysis and enabling order query
+  * Produced an order status monitor application to track orders in real-time with Java Spring Boot, MongoDB, React
 
-* Summer 2020: Everbright Xinglong Trust Co., Ltd. - Quantitative Analytics Intern
+* **Summer 2020: Everbright Xinglong Trust Co., Ltd. - Quantitative Analytics Intern**
   * Built data pipeline for a customized index in Python
   * Assisted in multi-factor based model research
-  * Automated ledger management and data analysis of several accounts and books with VBA and SQL
 
-* Jun 2019 - Apr 2020: Hong Kong Exchanges & Clearing Ltd (HKEX) - Software Engineer Intern
+* **Jun 2019 - Apr 2020: Hong Kong Exchanges & Clearing Ltd (HKEX) - Software Engineer Intern**
   * Corporate & Listing Team
   * Designed VBA Macros to automate financial report generation
   * Corporate listing system maintenance and testing
@@ -34,7 +32,7 @@ Work experience
 
 Research experience
 ======
-* Jul 2019 - Apr 2021: City University of Hong Kong 
+* **Jul 2019 - Apr 2021: City University of Hong Kong**
   * Supervisor: Prof. Cong Wang
   * Research field: Data, Machine Learning, Federated Learning, Blockchain
   * Achievement: 
