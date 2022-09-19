@@ -48,7 +48,7 @@ I am a Master student at [Columbia University](https://www.columbia.edu), majori
 * ICPC Columbia University Local Contest (CULC)
 
 
-# Selected Portfolio
+<!-- # Selected Portfolio
 {% include base_path %}
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
@@ -59,5 +59,5 @@ I am a Master student at [Columbia University](https://www.columbia.edu), majori
     {% endif %}
   {% endfor %}
 </tbody>
-</table>
+</table> -->
 
