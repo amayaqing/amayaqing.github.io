@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiaqing Chen's Home Page"
+title: "Jiaqing Chen"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,45 +8,45 @@ redirect_from:
   - /about.html
 ---
 
-Education
+I am a Master student at [Columbia University](https://www.columbia.edu), majoring [Computer Science](https://www.engineering.columbia.edu). Prior to this, I received my Bachelor's Degree in Computer Science from [City University of HOng Kong](https://www.cityu.edu.hk/). Smart data and intelligent coding change the world. I'm passionate about working with data and integrating with machine learning to build effective software and solve challenging problems, both in technical and finance fields.
+
+# Education
 ======
 * B.S. in Computer Science, City University of Hong Kong, 2017
 * M.S. in Computer Science, Columbia University, 2022
 
-Work experience
+# Work experience
 ======
 * **Summer 2022: Goldman Sachs - Software Engineering Summer Analyst**
   * FICC Eng Team
-  * Produced an order status monitor application to track orders in real-time with Java Spring Boot, MongoDB, React
+  * Produced a trading order monitor application to track order status in real-time with Java Spring Boot, MongoDB, React
 
 * **Summer 2020: Everbright Xinglong Trust Co., Ltd. - Quantitative Analytics Intern**
-  * Built data pipeline for a customized index in Python
-  * Assisted in multi-factor based model research
+  * Investment Management Team
+  * Built data pipeline and automated model verification in Python to assist in multi-factor based model research
 
 * **Jun 2019 - Apr 2020: Hong Kong Exchanges & Clearing Ltd (HKEX) - Software Engineer Intern**
   * Corporate & Listing Team
-  * Designed VBA Macros to automate financial report generation
-  * Corporate listing system maintenance and testing
+  * Corporate listing system maintenance and testing; Designed VBA Macros to automate financial report generation
   * Oracle database maintenance
 
-Research experience
+# Research experience
 ======
 * **Jul 2019 - Apr 2021: City University of Hong Kong**
-  * Supervisor: Prof. Cong Wang
-  * Research field: Data, Machine Learning, Federated Learning, Blockchain
+  * Supervisor: Prof. [Cong Wang](https://www.cs.cityu.edu.hk/~congwang/)
+  * Research field: Big Data, Federated Learning, Blockchain, Cloud Computing
   * Achievement: 
     * Researched on data valuation algorithms in context of machine learning, collaborated to complete an academic survey journal
     * Designed and implemented an incentive allocation scheme with data valuation algorithm in Federated Learning, and extended it to be a federated optimization algorithm
 
 
-
-Skills
+# Skills
 ======
-* Programming Languages: Java, Python, C/C++, SQL, JavaScript, React, Git, Linux Shell, Verilog
-* Frameworks and Tools: Spring, Flask, TensorFlow, PyTorch, Hadoop, Spark, AWS, WEKA, Tableau
+* Programming Languages: Java, Python, C/C++, SQL, JavaScript
+* Frameworks and Tools: Spring, Flask, TensorFlow, PyTorch, Hadoop, Spark, AWS
 
   
-Activities
+# Activities
 ======
 * 2021 Pearl River Delta Delta Region IT Project Competition
 * 2022 Columbia Data Science Hackathon

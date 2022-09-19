@@ -1,7 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Data Valuation for Machine Learning and Federated Learning"
+excerpt: "portfolio number 1<br/><img src='/images/dv.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Recently, federated learning (FL) emerges as a promising framework to collect the dispersed data and train a collaborative machine learning (ML) model with privacy protection. An incentive scheme plays a crucial role in the FL system as they encourage long-term client joining. This project proposes a new round-based data valuation (RDV) approach to serve as a real-time incentive mechanism. It takes advantage of the FL system’s unique model aggregation property to increase the valuation efficiency and provide a fine-grained contribution estimation on a per-round basis. It also offers a guideline for the central server to selectively aggregate the local updates to train a better-performing model. We empirically demonstrate the effectiveness of RDV in identifying high-quality participants, the efficiency in allocating payoff, and its potentials in federation optimization.
+
+[Report](http://academicpages.github.io/files/dv_report.pdf) | [Slide](http://academicpages.github.io/files/dv_ppt.pdf) | [Code](https://github.com/amayaqing/Data-valaution-in-federated-learning)
+
