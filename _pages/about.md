@@ -56,7 +56,6 @@ I am a Master student at [Columbia University](https://www.columbia.edu), majori
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 <tbody>
   {% for post in site.publications %}
-  <!-- {% for post in site.portfolio %} -->
     {% if post.show %}
       {% include archive-single.html %}
     {% endif %}
