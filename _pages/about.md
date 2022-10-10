@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master student at [Columbia University](https://www.columbia.edu), majoring [Computer Science](https://www.engineering.columbia.edu). Prior to this, I received my Bachelor's Degree in Computer Science from [City University of HOng Kong](https://www.cityu.edu.hk/). Smart data and intelligent coding change the world. I'm passionate about working with data and integrating with machine learning to build effective software and solve challenging problems, both in technical and finance fields.
+I am a Master student at [Columbia University](https://www.columbia.edu), majoring [Computer Science](https://www.engineering.columbia.edu). Prior to this, I received my Bachelor's Degree in Computer Science from [City University of Hong Kong](https://www.cityu.edu.hk/). Smart data and intelligent coding change the world. I'm passionate about working with data and integrating with machine learning to build effective software and solve challenging problems, both in technical and finance fields.
 
 # Education
 * M.S. in Computer Science, Columbia University, 2022
