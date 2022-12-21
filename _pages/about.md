@@ -16,27 +16,27 @@ I am a Master student at [Columbia University](https://www.columbia.edu), majori
 
 
 # Work experience
-* **Summer 2022: Goldman Sachs - Software Engineering Summer Analyst**
-  * Produced a trading order monitor application to track order status in real-time with Java Spring Boot, MongoDB, React
+* Summer 2022: Goldman Sachs - Software Engineering Summer Analyst
+  <!-- * Produced a trading order monitor application to track order status in real-time with Java Spring Boot, MongoDB, React -->
 
-* **Summer 2020: Everbright Xinglong Trust Co., Ltd. - Quantitative Analytics Intern**
-  * Built data pipeline and automated model verification in Python to assist in multi-factor based model research
+* Summer 2020: Everbright Xinglong Trust Co., Ltd. - Quantitative Analytics Intern
+  <!-- * Built data pipeline and automated model verification in Python to assist in multi-factor based model research -->
 
-* **Jun 2019 - Apr 2020: Hong Kong Exchanges & Clearing Ltd (HKEX) - Software Engineer Intern**
-  * Corporate listing system maintenance and testing
-  * Oracle database maintenance
+* Jun 2019 - Apr 2020: Hong Kong Exchanges & Clearing Ltd (HKEX) - Software Engineer Intern
+  <!-- * Corporate listing system maintenance and testing
+  * Oracle database maintenance -->
 
 # Research experience
 * **Jul 2019 - Apr 2021: City University of Hong Kong**
   * Supervisor: [Prof. Cong Wang](https://www.cs.cityu.edu.hk/~congwang/)
   * Research field: Big Data, Federated Learning, Cloud Computing
-  * Achievement: 
-    * Researched on data valuation algorithms in context of machine learning, Designed and implemented an incentive allocation scheme with data valuation algorithm in Federated Learning
+  <!-- * Achievement: 
+    * Researched on data valuation algorithms in context of machine learning, Designed and implemented an incentive allocation scheme with data valuation algorithm in Federated Learning -->
 
 
-# Skills
+<!-- # Skills
 * Python, Java, C/C++, SQL, JavaScript
-* Spring, Flask, TensorFlow, PyTorch, Hadoop, Spark, AWS
+* Spring, Flask, TensorFlow, PyTorch, Hadoop, Spark, AWS -->
 
   
 # Activities
