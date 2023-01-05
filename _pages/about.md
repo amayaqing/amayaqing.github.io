@@ -16,13 +16,13 @@ I am a Master student at [Columbia University](https://www.columbia.edu), majori
 
 
 # Work experience
-* Summer 2022: Goldman Sachs - Software Engineering Summer Analyst
+* **Summer 2022: Goldman Sachs** - Software Engineering Summer Analyst
   <!-- * Produced a trading order monitor application to track order status in real-time with Java Spring Boot, MongoDB, React -->
 
-* Summer 2020: Everbright Xinglong Trust Co., Ltd. - Quantitative Analytics Intern
+* **Summer 2020: Everbright Xinglong Trust Co., Ltd.** - Quantitative Analytics Intern
   <!-- * Built data pipeline and automated model verification in Python to assist in multi-factor based model research -->
 
-* Jun 2019 - Apr 2020: Hong Kong Exchanges & Clearing Ltd (HKEX) - Software Engineer Intern
+* **Jun 2019 - Apr 2020: Hong Kong Exchanges & Clearing Ltd (HKEX)** - Software Engineer Intern
   <!-- * Corporate listing system maintenance and testing * Oracle database maintenance -->
 
 # Research experience
