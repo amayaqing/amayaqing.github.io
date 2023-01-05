@@ -23,8 +23,7 @@ I am a Master student at [Columbia University](https://www.columbia.edu), majori
   <!-- * Built data pipeline and automated model verification in Python to assist in multi-factor based model research -->
 
 * Jun 2019 - Apr 2020: Hong Kong Exchanges & Clearing Ltd (HKEX) - Software Engineer Intern
-  <!-- * Corporate listing system maintenance and testing
-  * Oracle database maintenance -->
+  <!-- * Corporate listing system maintenance and testing * Oracle database maintenance -->
 
 # Research experience
 * **Jul 2019 - Apr 2021: City University of Hong Kong**
